@@ -7,7 +7,7 @@
 
 <a href="https://github.com/nuym">
   <p align="center">
-    <img src="https://komarev.com/ghpvc/?username=NuymakStone" alt="访客">
+![](https://visitor-badge.glitch.me/badge?page_id=nuymakstone.nuymakstone)
   </p>
 </a>
 
