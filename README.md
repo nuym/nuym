@@ -7,7 +7,7 @@
 
 <a href="https://github.com/nuym">
   <p align="center">
-    <img src="https://komarev.com/ghpvc/?username=nuym" alt="访客">
+    <img src="https://komarev.com/ghpvc/?username=NuymakStone" alt="访客">
   </p>
 </a>
 
