@@ -2,7 +2,7 @@
 
 <h1 align="center">Nuym</h1>
 
-<p align="center">高一计算机程序开发学生</p>
+<p align="center">高一业余计算机程序开发学生</p>
 <p align="center">擅长Java，易语言</p>
 
 <a href="https://github.com/nuym">
