@@ -2,8 +2,9 @@
 
 <h1 align="center">nuym</h1>
 
-<p align="center">高二业余计算机程序开发学生</p>
-<p align="center">擅长Java，易语言</p>
+<p align="center">Sophomore amateur computer program development students</p>
+<p align="center">Specialized in Java, Yi language.</p>
+<p align="center">I am also a translator.</p>
 
 <a href="https://github.com/nuym">
 </a>
