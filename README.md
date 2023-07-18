@@ -3,8 +3,8 @@
 <h1 align="center">nuym</h1>
 
 <p align="center">Sophomore amateur computer program development students</p>
-<p align="center">Specialized in Java, Yi language.</p>
-<p align="center">I am also a translator.</p>
+<p align="center">Specialized in Java</p>
+<p align="center">I am also a translator</p>
 
 <a href="https://github.com/nuym">
 </a>
