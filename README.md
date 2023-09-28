@@ -1,17 +1,16 @@
 ![welcome-bg-2](https://user-images.githubusercontent.com/50290580/124369381-11ed1800-dc74-11eb-90a9-2ff2073c3b97.jpg)
 
-<h1 align="center">nuym</h1>
-
-<p align="center">Sophomore amateur computer program development students</p>
-<p align="center">Specialized in Java</p>
-<p align="center">I am also a translator</p>
+<p align="center">
+  <a href="https://github.com/Jurredr/github-widgetbox">
+    <img width="100%" src="https://github-widgetbox.vercel.app/api/profile?username=nuym&data=followers,repositories,stars,commits" alt="GitHub WidgetBox" />
+  </a>
+  <a href="https://github.com/Jurredr/github-widgetbox">
+          <img width="49%" src="https://github-widgetbox.vercel.app/api/skills?tools=git,gradle&includeNames=true" alt="GitHub WidgetBox" />
+    <img width="49%" src="https://github-widgetbox.vercel.app/api/skills?names=html,css,js,java,python,c,mysql,kotlin,markdown,json,yaml,xml,bash&includeNames=true" alt="GitHub WidgetBox" />
+  </a>
+</p>
 
 <a href="https://github.com/nuym">
 </a>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=nuym&show_icons=true&theme=white" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nuym&theme=light&layout=compact&hide=ruby&langs_count=8&card_width=300&hide_border=true" alt="nuym" />
-</p>
 
 ![footer-bg](https://user-images.githubusercontent.com/50290580/124369382-144f7200-dc74-11eb-807a-f10a7a502dd9.jpg)
