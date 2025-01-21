@@ -6,7 +6,7 @@
   </a>
   <a href="https://github.com/Jurredr/github-widgetbox">
           <img width="49%" src="https://github-widgetbox.vercel.app/api/skills?tools=git,gradle&includeNames=true" alt="GitHub WidgetBox" />
-    <img width="49%" src="https://github-widgetbox.vercel.app/api/skills?names=html,css,js,java,python,c,mysql,kotlin,markdown,json,yaml,xml,bash&includeNames=true" alt="GitHub WidgetBox" />
+    <img width="49%" src="https://github-widgetbox.vercel.app/api/skills?names=java,python,c,mysql,kotlin,markdown,json,yaml,xml&includeNames=true" alt="GitHub WidgetBox" />
   </a>
 </p>
 
